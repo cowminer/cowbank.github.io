@@ -1049,7 +1049,7 @@ body{
     color: #00effc;
     overflow: hidden;
     position: relative;
-    height: 52px;
+    height: 40px;
 }
 .wk_header_left{
     float: left;
@@ -1359,10 +1359,12 @@ body{
 	z-index:999;
 }
 .yytb ul{ margin-left:0.7rem; margin-top:1rem;}
-.yytb li{ float:left; margin-right:0.2rem; width:5.7rem; text-align:center; color:#666; border-right: 1px solid #fcfcfc; height:5rem; }
+.yytb li{ float:left; margin-right:0.2rem; width:4.25rem; text-align:center; color:#666; border-right: 1px solid #fcfcfc; height:4.25rem; }
 .yytb a{ color:#666;}
 
-
+.newslist{color:#666; margin-left:0.6rem; margin-bottom:1rem;}
+.newslist a{color:#666; }
+.newslist li{ line-height:1.3rem; border-bottom:1px dashed #f6f6f6; }
 
 
 
